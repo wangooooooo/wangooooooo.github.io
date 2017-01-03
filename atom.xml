@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Wangooooooo</title>
   
   <link href="/atom.xml" rel="self"/>
   
@@ -9,7 +9,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Wangooooooo</name>
     
   </author>
   
@@ -19,7 +19,7 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/2017/01/03/hello-world/"/>
     <id>http://yoursite.com/2017/01/03/hello-world/</id>
-    <published>2017-01-03T03:04:25.893Z</published>
+    <published>2017-01-03T06:17:20.393Z</published>
     <updated>2017-01-03T03:04:25.904Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
