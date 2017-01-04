@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-03T03:04:25.904Z</updated>
+  <updated>2017-01-04T11:41:08.798Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>此博客参考资料</title>
+    <link href="http://yoursite.com/2017/01/04/%E6%AD%A4%E5%8D%9A%E5%AE%A2%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/"/>
+    <id>http://yoursite.com/2017/01/04/此博客参考资料/</id>
+    <published>2017-01-04T04:15:52.000Z</published>
+    <updated>2017-01-04T11:41:08.798Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>建立此博客所参考的资料。记录一下。</strong></p>
+<hr>
+<p>其实此博客在16年初就建好了，之后也没再碰过，也就都忘了，重新走了一遍流程。小学没毕业，写不出长文，就简单的粘贴几个参考的url。</p>
+<hr>
+<ul>
+<li><a href="http://www.jianshu.com/p/35e197cb1273" target="_blank" rel="external">Hexo搭建Github-Pages博客填坑教程</a></li>
+<li><a href="http://www.cnblogs.com/zhcncn/p/4097881.html" target="_blank" rel="external">Hexo搭建Github静态博客</a></li>
+<li><a href="http://jiji262.github.io/2016/04/15/2016-04-15-hexo-github-pages-blog/" target="_blank" rel="external">手把手教你使用Hexo + Github Pages搭建个人独立博客</a><br>Hexo配置:</li>
+<li><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">Hexo官方文档</a></li>
+<li><p><a href="http://blog.csdn.net/willxue123/article/details/50994852" target="_blank" rel="external">Hexo系列教程之三：next主题的配置和优化</a></p>
+<p>markdown(markdownpad2在我的win10上有点问题):</p>
+</li>
+<li><a href="https://www.zybuluo.com/mdeditor" target="_blank" rel="external">作业部落的Cmd Markdown</a><br>在其他电脑上也能更新(我还未实现):</li>
+<li><a href="https://www.zhihu.com/question/21193762" target="_blank" rel="external">使用hexo，如果换了电脑怎么更新博客？</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;建立此博客所参考的资料。记录一下。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;其实此博客在16年初就建好了，之后也没再碰过，也就都忘了，重新走了一遍流程。小学没毕业，写不出长文，就简单的粘贴几个参考的url。&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a hre
+    
+    </summary>
+    
+    
+      <category term="other" scheme="http://yoursite.com/tags/other/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
